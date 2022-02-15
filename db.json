@@ -1,0 +1,87 @@
+{
+    "products"   : [
+        {
+            "id"        :1,
+            "name"      : "Potato",
+            "price"     : 12,
+            "photo"     : "https://m.media-amazon.com/images/I/61yXL70-RaL._SX679_.jpg",
+            "country"   : "Banglaeshi"
+
+        },
+        {
+            "id"        :2,
+            "name"      : "Tomato",
+            "price"     : 60,
+            "photo"     : "https://images.unsplash.com/photo-1558818498-28c1e002b655?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "country"   : "Banglaeshi"
+
+        },
+        {
+            "id"        :3,
+            "name"      : "Avacado",
+            "price"     : 12,
+            "photo"     : "https://media.istockphoto.com/photos/avocado-on-old-wooden-table-in-bowl-picture-id1210634323?b=1&k=20&m=1210634323&s=170667a&w=0&h=O5oOh2SAoChz2TXOvjf3b-3mCjTTc9woYPtSO_Z1fBE=",
+            "country"   : "Germany"
+
+        },
+        {
+            "id"        :4,
+            "name"      : "Carrot Premium",
+            "price"     : 80,
+            "photo"     : "https://foodiosity.com/wp-content/uploads/2020/11/carrot-fruit-vegetable.jpg",
+            "country"   : "Bangladeshi"
+
+        },
+        {
+            "id"        :5,
+            "name"      : "Apple",
+            "price"     : 150,
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_qxxPQWjt_ia6xyRjEiVSrJQBQZ-BLTxaQ&usqp=CAU",
+            "country"   : "China"
+
+        }
+    ],
+    
+    "developers" : [
+        {
+            "id"        :1,
+            "name"      : "Abdul Jalil",
+            "skill"     : "Java Developer",
+            "location"  : "Manikganj",
+            "photo"     : "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png"
+        },
+        {
+            "id"        :2,
+            "name"      : "Raihan Kabir",
+            "skill"     : "Java Developer",
+            "location"  : "Dhaka",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPICw0MvHj_wo8CMy5anGtsvBzqAJSQtDFw&usqp=CAU"
+        },
+        {
+            "id"        :3,
+            "name"      : "Abbas Ali",
+            "skill"     : "Python Developer",
+            "location"  : "Manikganj",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_KXEB-S2jZ4g9Ae7U-8CRWzzIFTXGuiiPUg&usqp=CAU"
+        },
+        {
+            "id"        :4,
+            "name"      : "Shah Alam",
+            "skill"     : "Blockchain Developer",
+            "location"  : "Faridpur",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTk-N9nObtC-QczBpJCtbeVUufyCVvZSKzW3sw8qdkHIPHTYonVVX1UVaVKmGj2WW1pc&usqp=CAU"
+        },
+        {
+            "id"        :5,
+            "name"      : "Jaman Ali",
+            "skill"     : "Blockchain Developer",
+            "location"  : "Rangpur",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMQU5OOJ8XrMGxRz-tynm0hOLru2aa2H6Vg&usqp=CAU"
+        }
+    ]
+}
+
+
+
+
+

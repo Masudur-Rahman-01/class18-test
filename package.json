@@ -1,0 +1,14 @@
+{
+  "name": "class-18-mix",
+  "version": "1.0.0",
+  "description": "This is a mobile and react dovelopers",
+  "main": "index.js",
+  "scripts": {
+    "mix-class-18": "json-server --watch db.json --port 5151"
+  },
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
