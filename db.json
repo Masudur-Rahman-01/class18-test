@@ -78,10 +78,73 @@
             "location"  : "Rangpur",
             "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMQU5OOJ8XrMGxRz-tynm0hOLru2aa2H6Vg&usqp=CAU"
         }
+    ],
+    
+    "students" : [
+        {
+            "roll"      : 1,
+            "name"      : "Ali Asgor",
+            "s_class"   : 9,
+            "gender"    : "male",
+            "photo"     : "https://media.istockphoto.com/photos/handsome-afro-student-posing-on-bookshelves-background-picture-id1171062918?k=20&m=1171062918&s=612x612&w=0&h=I6djuMs92BCgJaBv5iIsPALt2oZ8mYQU7ttF1hmhPkE=",
+            "bangla"    : 80,
+            "english"   : 70,
+            "math"      : 85,
+            "science"   : 70,
+            "s_science" : 65,
+            "religion"  : 85
+        },
+        {
+            "roll"      : 2,
+            "name"      : "Ahammad Ali",
+            "s_class"   : 9,
+            "gender"    : "male",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKEG-1o7A8At7z8J-mng7qnVWwePHVCENrHXZ4q1xRSKXtd9kW8DD_Bb8jlwxZPJoJe6M&usqp=CAU",
+            "bangla"    : 85,
+            "english"   : 70,
+            "math"      : 85,
+            "science"   : 70,
+            "s_science" : 65,
+            "religion"  : 65
+        },
+        {
+            "roll"      : 3,
+            "name"      : "Jaman Ali",
+            "s_class"   : 9,
+            "gender"    : "male",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijl970gTDXbfeNcO5MfIsFPhmT7kmXw9K9GVxw1iMEehXN7s99LkY-i6fY03WcLdp6Pg&usqp=CAU",
+            "bangla"    : 55,
+            "english"   : 70,
+            "math"      : 85,
+            "science"   : 70,
+            "s_science" : 65,
+            "religion"  : 98
+        },
+        {
+            "roll"      : 4,
+            "name"      : "Shah Alam",
+            "s_class"   : 9,
+            "gender"    : "male",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlWqPckwu4ddbhlqEn2jfW6eVfFYEfEFn1HuYy2dJCnd8YXRFo5qw2mRfJ1hMO1w18WM&usqp=CAU",
+            "bangla"    : 55,
+            "english"   : 70,
+            "math"      : 85,
+            "science"   : 70,
+            "s_science" : 65,
+            "religion"  : 98
+        },
+        {
+            "roll"      : 5,
+            "name"      : "Amin Ali",
+            "s_class"   : 9,
+            "gender"    : "male",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1G9V4xJOFvL5W-Aud8Bb6HsZHQwp4TVC_h2pjSU1iEQImr1vbi0JMD_rFk939_eHGd0&usqp=CAU",
+            "bangla"    : 85,
+            "english"   : 70,
+            "math"      : 85,
+            "science"   : 70,
+            "s_science" : 65,
+            "religion"  : 98
+        }
     ]
 }
-
-
-
-
-
